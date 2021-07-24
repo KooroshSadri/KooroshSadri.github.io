@@ -14,9 +14,6 @@ main:
     
   - title: "Problems"
     url: /problems/
-    
-  - title: "Contact"
-    url: /markdown/
   
   - title: "Related Links"
     url: /links/
