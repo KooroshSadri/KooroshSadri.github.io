@@ -83,8 +83,8 @@ author:
   name             : "Koorosh Sadri"
   avatar           : "profile.jpg"
   bio              : "Theoretical Physics @ Sharif UT\nQuantum Information, General Relativity, Nonlinear Dynamics and Chaos, Sphere Packing, Stochastic Analysis, High Dimensional Statistics"
-  location         : "Location"
-  employer         :
+  location         : ""
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
