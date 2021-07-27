@@ -32,20 +32,24 @@ Awards and Honors
 * (2010) Certificate of Attendance, IMC Junior, South Korea
 
 
-Work experience
+Experience
 ======
 
 -Academic-
 ------
+* Spring 2021: EE BS Project, SUT
+  * Title: Phase Transitions in the Community Detection Problem: An Information Theoretic Approach
+  * Paper under preparation
+
 * Spring 2019, 20, 21: Teaching Assistant, SUT
   * Game Theory for Engineers (graduate course)
   * Duties included: Recitation Classes, HW Design and Grading
   * Supervisor: Professor Farid Ashtiani
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019-Present: Paid Research Assistant, SUT
+  * Quantum Information Group
+  * Duties included: The Q,  
+  * Supervisor: Professor Vahid Karimipour 
   
 Skills
 ======
