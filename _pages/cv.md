@@ -18,14 +18,12 @@ Education
 
 [Publication List](https://kooroshsadri.github.io/publications)
 ======
-
 * F. Shahbeigi, KS , M. Moradi, K. Zyczkowski, V. Karimipour; "Quasi-inversion of
 quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
 and Theoretical*, 115691.R1 (2021)
 
 Awards and Honors
 ======
-
 * (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
 * (2020) Ranked 1<sup>st</sup> in the national master studies entrance exam
 * (2018) Premier sophomore EE student
@@ -34,10 +32,12 @@ Awards and Honors
 * (2010) Certificate of Attendance, IMC Junior, South Korea
 
 
-
 Work experience
 ======
-* Summer 2015: Research Assistant
+
+-Academic-
+------
+* Spring 2019, 20, 21: Teaching Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
