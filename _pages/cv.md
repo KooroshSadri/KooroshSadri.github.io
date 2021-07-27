@@ -27,6 +27,7 @@ Unpublished Work
 * EE BS Thesis: During the 2021 spring semester, I did a research project titled *Phase Transitions in the Community Detection Problem: An Information Theoretic Approach* under [Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en)'s supervision. We hope to publish the results soon.
 * Special Relativity Term-Paper: I did a thorough review of several historical and modern papers on the issue of rigid bodies in relativistic physics. You can find the paper under the [notes](kooroshsadri.github.io/notes) tab.
 * Physics BS Project: Under [B. Mashhoon](https://scholar.google.com/citations?user=Yj0-pX4AAAAJ&hl=en)'s supervision, I re-derived and discussed some of the solutions to Einstein's field equations in higher dimensional space-times. You can find a drafty note, reflecting my calculations and results under the [notes](kooroshsadri.github.io/notes) tab.
+* Sphere Packing: On the Pi day of 2016, maryna viazovska solved the problem of optimal sphere packing in 8 dimensions, a week later, Henry Cohn *et al.* used a similar method to solve the problem in 24 dimensions. I, being interested in sphere packing, did a thorough review on the state of the art methods and results. The resulting paper was pubvlished (in persian) [here](http://physics.sharif.edu/~takaneh/wp-content/uploads/2020/03/Takaneh28.pdf)
 
 Awards and Honors
 ======
@@ -72,14 +73,14 @@ Work Experience
 
 Languages
 =====
-* Farsi (Persian): Native
+* Persian: Native
 * English: Fluent
   * TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117
 * Spanish: Upper Intermediate
 
 Computer Skills
 =====
-I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, Markdown, etc.
+I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: COMSOL, LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, Markdown, etc.
 
 Participations
 =====
@@ -92,6 +93,7 @@ Participations
 
 Selected Courses
 =====
+
 
   
 Talks
