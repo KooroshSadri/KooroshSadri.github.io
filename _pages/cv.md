@@ -79,7 +79,7 @@ Languages
 
 Computer Skills
 =====
-I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, etc.
+I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, Markdown, etc.
 
 Participations
 =====
