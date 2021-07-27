@@ -25,6 +25,10 @@ Research Experience
 quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
 and Theoretical*, 115691.R1 (2021), [arXiv](arxiv.org/abs/2104.06062)
 
+Unpublished Experience
+-----
+* EE BS Thesis: During the 2021 spring semester, I did a research project titled *Phase Transitions in the Community Detection Problem: An Information Theoretic Approach* under [Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en)'s supervision. We hope to publish the results soon.
+
 Awards and Honors
 ======
 * (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
@@ -40,10 +44,6 @@ Work Experience
 
 -Academic-
 ------
-* Spring 2021: EE BS Project, SUT
-  * Title: Phase Transitions in the Community Detection Problem: An Information Theoretic Approach
-  * Paper under preparation
-
 * Spring 2019, 20, 21: Teaching Assistant, SUT
   * Game Theory for Engineers (graduate course)
   * Duties included: Recitation Classes, HW Design and Grading
