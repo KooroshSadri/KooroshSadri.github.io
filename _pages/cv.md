@@ -82,20 +82,14 @@ Participations
 * Winter 2020: Funded Visitor, Winter College on Optics: Quantum Photonics and Information, [ICTP](http://ictp.it) International Center for Theoretical Physics, Trieste, Italy
 * Summer 2019: Funded Visitor, 4<sup>th</sup> Summer School in Data Sciences and Machine Learning, TeIAS, Tehran, Iran
 * Summer 2019: Visitor, Iranian Conference on Quantum Information and Computation, [PSI](psi.ir) Physics Society of Iran, Shahrood, Iran
-* Winter 2019
+* Winter 2019: Funded Visitor, An Advanced School on Ubiquitos Quantum Physics, ICTP, Trieste, Italy
+* Summer 2018: Funded Visitor, Two introductory and advanced courses on dynamical systems and ergodic theory, ICTP, Trieste, Italy
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Selected Courses
+=====
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * I have given many informal technical talks at different communities in SUT. Examples include [the quanta study circle](http://physics.sharif.edu/~ebrahimi_mohammad/Study%20Circle%20Fall19.html), [Dr. Karimipour's research group](http://physics.sharif.edu/~vahid/mystudents.html), etc.
 
