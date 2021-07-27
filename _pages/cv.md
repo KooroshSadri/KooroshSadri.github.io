@@ -65,7 +65,26 @@ Work Experience
 
 * Jul 2017: Local Guide
   * The 2017 International Olympiad for Informatics (IOI) was held in Tehran, Iran. I served as the local guide for the Belarusian team during the week-long event.
-  
+
+Languages
+=====
+* Farsi (Persian): Native
+* English: Fluent
+  * TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117
+* Spanish: Upper Intermediate
+
+Computer Skills
+=====
+I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, etc.
+
+Participations
+=====
+* Winter 2021: Visitor, 2<sup>nd</sup> Advanced School on Holography and Quantum Information Topics, [IPM](http://www.ipm.ac.ir/) Institute for Research in Fundamental Sciences, Tehran, Iran
+* Winter 2020: Funded Visitor, Winter College on Optics: Quantum Photonics and Information, [ICTP](http://ictp.it) International Center for Theoretical Physics, Trieste, Italy
+* Summer 2019: Funded Visitor, 4<sup>th</sup> Summer School in Data Sciences and Machine Learning, TeIAS, Tehran, Iran
+* Summer 2019: Visitor, Iranian Conference on Quantum Information and Computation, [PSI](psi.ir) Physics Society of Iran, Shahrood, Iran
+* Winter 2019
+
 Skills
 ======
 * Skill 1
@@ -74,25 +93,10 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
