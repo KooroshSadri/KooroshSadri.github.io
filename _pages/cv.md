@@ -25,9 +25,11 @@ Research Experience
 quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
 and Theoretical*, 115691.R1 (2021), [arXiv](arxiv.org/abs/2104.06062)
 
-Unpublished Experience
+Unpublished Work
 -----
 * EE BS Thesis: During the 2021 spring semester, I did a research project titled *Phase Transitions in the Community Detection Problem: An Information Theoretic Approach* under [Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en)'s supervision. We hope to publish the results soon.
+* Special Relativity Term-Paper: I did a thorough review of several historical and modern papers on the issue of rigid bodies in relativistic physics. You can find the paper under the [notes](kooroshsadri.github.io/notes) tab.
+* Physics BS Project: Under [B. Mashhoon](https://scholar.google.com/citations?user=Yj0-pX4AAAAJ&hl=en)'s supervision, I re-derived and discussed some of the solutions to Einstein's field equations in higher dimensional space-times. You can find a drafty note, reflecting my calculations and results under the [notes](kooroshsadri.github.io/notes) tab.
 
 Awards and Honors
 ======
