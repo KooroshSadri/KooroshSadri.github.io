@@ -18,9 +18,6 @@ Education
 
 Research Experience
 ======
-
-[Publications](htttps://kooroshsadri.github.io/publications)
------
 * F. Shahbeigi, KS , M. Moradi, K. Zyczkowski, V. Karimipour; "Quasi-inversion of
 quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
 and Theoretical*, 115691.R1 (2021), [arXiv](arxiv.org/abs/2104.06062)
