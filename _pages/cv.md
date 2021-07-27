@@ -38,9 +38,10 @@ Work experience
 -Academic-
 ------
 * Spring 2019, 20, 21: Teaching Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Game Theory for Engineers (graduate course)
+  * SUT
+  * Duties included: Recitation Classes, HW Design and Grading
+  * Supervisor: Professor Ashtiani Mofrad Tehrani
 
 * Fall 2015: Research Assistant
   * Github University
