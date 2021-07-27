@@ -23,6 +23,12 @@ Education
 quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
 and Theoretical*, 115691.R1 (2021)
 
+Awards and Honors
+======
+
+* (2021) Ranked 2<sup>nd</sup>
+
+
 Work experience
 ======
 * Summer 2015: Research Assistant
