@@ -37,11 +37,10 @@ Work experience
 
 -Academic-
 ------
-* Spring 2019, 20, 21: Teaching Assistant
+* Spring 2019, 20, 21: Teaching Assistant, SUT
   * Game Theory for Engineers (graduate course)
-  * SUT
   * Duties included: Recitation Classes, HW Design and Grading
-  * Supervisor: Professor Ashtiani Mofrad Tehrani
+  * Supervisor: Professor Farid Ashtiani
 
 * Fall 2015: Research Assistant
   * Github University
