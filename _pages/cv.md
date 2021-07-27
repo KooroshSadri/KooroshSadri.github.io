@@ -89,6 +89,7 @@ Participations
 * Summer 2019: Funded Visitor, 4<sup>th</sup> Summer School in Data Sciences and Machine Learning, TeIAS, Tehran, Iran
 * Summer 2019: Visitor, Iranian Conference on Quantum Information and Computation, [PSI](psi.ir) Physics Society of Iran, Shahrood, Iran
 * Winter 2019: Funded Visitor, An Advanced School on Ubiquitos Quantum Physics, ICTP, Trieste, Italy
+* 2019: Member/Audience, Weekly held journal clubs on Quantum Information and Computation, SUT, Tehran, Iran
 * Summer 2018: Funded Visitor, Two introductory and advanced courses on dynamical systems and ergodic theory, ICTP, Trieste, Italy
 
 Selected Courses
