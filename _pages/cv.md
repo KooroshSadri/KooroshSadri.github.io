@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* BS in Electrical Engineering, Sharif University of Technology, 2021 (GPA: 90%)
+* BS in Physics, Sharif University of Technology, 2021 (GPA: 94%)
+* BS in Electrical Engineering, SUT, 2021 (GPA: 90%)
+* IPhO Preparation Course, Young Scholars Club, 2016
+* A Level, Helli High School, 2015
+
+Publication List
+======
+
+* F. Shahbeigi, KS , M. Moradi, K. Zyczkowski, V. Karimipour; "Quasi-inversion of
+quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
+and Theoretical*, 115691.R1 (2021)
 
 Work experience
 ======
