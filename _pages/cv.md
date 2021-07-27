@@ -26,7 +26,13 @@ and Theoretical*, 115691.R1 (2021)
 Awards and Honors
 ======
 
-* (2021) Ranked 2<sup>nd</sup>
+* (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
+* (2020) Ranked 1<sup>st</sup> in the national master studies entrance exam
+* (2018) Premier sophomore EE student
+* (2017) Premier freshman EE student
+* (2015) Physics national Olympiad Gold medal
+* (2010) Certificate of Attendance, IMC Junior, South Korea
+
 
 
 Work experience
