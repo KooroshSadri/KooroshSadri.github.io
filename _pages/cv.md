@@ -16,8 +16,11 @@ Education
 * IPhO Preparation Course, Young Scholars Club, 2016
 * A Level, Helli High School, 2015
 
-[Publication List](https://kooroshsadri.github.io/publications)
+Research Experience
 ======
+
+[Publications](htttps://kooroshsadri.github.io/publications)
+-----
 * F. Shahbeigi, KS , M. Moradi, K. Zyczkowski, V. Karimipour; "Quasi-inversion of
 quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
 and Theoretical*, 115691.R1 (2021), [arXiv](arxiv.org/abs/2104.06062)
@@ -32,7 +35,7 @@ Awards and Honors
 * (2010) Certificate of Attendance, IMC Junior, South Korea
 
 
-Experience
+Work Experience
 ======
 
 -Academic-
@@ -50,6 +53,8 @@ Experience
   * Quantum Information Group
   * Duties included: The Quasi Inversion Paper, A new project concerning quantum macroscopicity, and several technical talks 
   * Supervisor: Professor Vahid Karimipour 
+
+* May 2019 - Jan 2021: Intern, Tehran Institute of Advanced Studies
   
 Skills
 ======
