@@ -56,6 +56,15 @@ Work Experience
 
 * May 2019 - Jan 2021: Intern, Tehran Institute of Advanced Studies ([TeIAS](https://teias.institute/))
   * During the 1-2 years, I was an active member of a study group focusing on high dimensional statistics. [This](https://teias.institute/statistics-reading-group/) is a webpage that (partially) covers the group's activities.
+
+* 2015-2018: Part Time Physics Olympiad Teacher
+  * In the first couple of years of my undergraduate studies, I was asked to teach physics Olympiad content at several high schools in Tehran. (Cf. Awards and Honors)
+
+-Miscellaneous-
+-----
+
+* Jul 2017: Local Guide
+  * The 2017 International Olympiad for Informatics (IOI) was held in Tehran, Iran. I served as the local guide for the Belarusian team during the week-long event.
   
 Skills
 ======
