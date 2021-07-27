@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS in Electrical Engineering, Sharif University of Technology, 2021 (GPA: 90%)
 
 Work experience
 ======
