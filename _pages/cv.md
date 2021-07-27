@@ -16,7 +16,7 @@ Education
 * IPhO Preparation Course, Young Scholars Club, 2016
 * A Level, Helli High School, 2015
 
-Publication List
+[Publication List](https://kooroshsadri.github.io/publications)
 ======
 
 * F. Shahbeigi, KS , M. Moradi, K. Zyczkowski, V. Karimipour; "Quasi-inversion of
