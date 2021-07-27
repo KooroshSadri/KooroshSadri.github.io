@@ -54,7 +54,8 @@ Work Experience
   * Duties included: The Quasi Inversion Paper, A new project concerning quantum macroscopicity, and several technical talks 
   * Supervisor: Professor Vahid Karimipour 
 
-* May 2019 - Jan 2021: Intern, Tehran Institute of Advanced Studies
+* May 2019 - Jan 2021: Intern, Tehran Institute of Advanced Studies ([TeIAS](https://teias.institute/))
+  * During the 1-2 years, I was an active member of a study group focusing on high dimensional statistics. [This](https://teias.institute/statistics-reading-group/) is a webpage that (partially) covers the group's activities.
   
 Skills
 ======
