@@ -46,15 +46,20 @@ Work Experience
 * Spring 2019, 20, 21: Teaching Assistant, SUT
   * Game Theory for Engineers (graduate course)
   * Duties included: Recitation Classes, HW Design and Grading
-  * Supervisor: Professor Farid Ashtiani
+  * Supervisor: Prof. Farid Ashtiani
 
 * Fall 2019-Present: Paid Research Assistant, SUT
   * Quantum Information Group
   * Duties included: The Quasi Inversion Paper, A new project concerning quantum macroscopicity, and several technical talks 
-  * Supervisor: Professor Vahid Karimipour 
+  * Supervisor: Prof. Vahid Karimipour 
 
 * May 2019 - Jan 2021: Intern, Tehran Institute of Advanced Studies ([TeIAS](https://teias.institute/))
   * During the 1-2 years, I was an active member of a study group focusing on high dimensional statistics. [This](https://teias.institute/statistics-reading-group/) is a webpage that (partially) covers the group's activities.
+
+* Spring 2017: Teaching Assistant, SUT
+  * Signals and Systems (undergraduate course)
+  * Duties included: Recitation Classes, HW Design and Grading
+  * Supervisor: Prof. Hamid Aghajan
 
 * 2015-2018: Part Time Physics Olympiad Teacher
   * In the first couple of years of my undergraduate studies, I was asked to teach physics Olympiad content at several high schools in Tehran. (Cf. Awards and Honors)
@@ -91,5 +96,5 @@ Selected Courses
   
 Talks
 ======
-  * I have given many informal technical talks at different communities in SUT. Examples include [the quanta study circle](http://physics.sharif.edu/~ebrahimi_mohammad/Study%20Circle%20Fall19.html), [Dr. Karimipour's research group](http://physics.sharif.edu/~vahid/mystudents.html), etc.
+  * I have given a number of informal technical talks at different communities in SUT. Examples include [the quanta study circle](http://physics.sharif.edu/~ebrahimi_mohammad/Study%20Circle%20Fall19.html), [Dr. Karimipour's research group](http://physics.sharif.edu/~vahid/mystudents.html), etc.
 
