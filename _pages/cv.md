@@ -48,7 +48,7 @@ Experience
 
 * Fall 2019-Present: Paid Research Assistant, SUT
   * Quantum Information Group
-  * Duties included: The Q,  
+  * Duties included: The Quasi Inversion Paper, A new project concerning quantum macroscopicity, and several technical talks 
   * Supervisor: Professor Vahid Karimipour 
   
 Skills
