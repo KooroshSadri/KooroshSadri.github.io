@@ -84,12 +84,12 @@ author:
   name             : "Koorosh Sadri"
   avatar           : "profile.jpg"
   bio              : ">> Theoretical Physics @ SUT\n>> Jan 22, 1998, Tehran, Iran\n>> Quantum Information, General Relativity, Nonlinear Dynamics and Chaos, Sphere Packing, Stochastic Analysis, High Dimensional Statistics"
-  location         : ""
+  location         : 
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "mr.k.sadri@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "github.com/kooroshsadri"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackexchange    : "https://math.stackexchange.com/users/388484/k-sadri"
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
