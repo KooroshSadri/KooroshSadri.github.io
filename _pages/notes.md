@@ -11,4 +11,6 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 
 <br>
 
+* While studying quantum field theory (QFT for short), there are many *do-it-yourself* calculation that might 
+
 * This is the Persian report of 
