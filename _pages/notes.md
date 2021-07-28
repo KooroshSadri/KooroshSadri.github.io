@@ -11,6 +11,6 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 
 <br>
 
-* While studying quantum field theory (QFT for short), there are many *do-it-yourself* calculation that might 
+* While studying quantum field theory (QFT for short), one faces many *do-it-yourself* calculations. In [this file](../files/notes/011.pdf), I will try to do those calculations as clearly (at least to myself) as possible. [Last Update: Jun 2021]
 
 * This is the Persian report of 
