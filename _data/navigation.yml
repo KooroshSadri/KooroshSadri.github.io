@@ -9,8 +9,8 @@ main:
   - title: "Notes"
     url: /notes/
     
-  - title: "Problems"
-    url: /problems/
+  #- title: "Problems"
+  #  url: /problems/
 
   #- title: "Useful Links"
   #  url: /links/
