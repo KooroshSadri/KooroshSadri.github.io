@@ -21,6 +21,8 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 
 * 🔒 While working on the Quasi-Inversion project, many little lemmas were proved; [this](..files/notes/007.pdf) is one of them. [Last Update: Feb 2021]
 
-* It is easy to make a paper cylinder but impossible to make a paper sphere. "What is the general rule here?" I asked [Behzad](https://www.linkedin.com/in/behzadhaghgoo), my high school friend, and he came up with a rather beautiful conjecture; [this](../files/notes/006.pdf) note is a proof for his (generalised) conjecture. There are a few open (at least for me) problems here as well (Cf. [Problems](kooroshsadri.github.io/problems) tab). [Last Update: ]
+* It is easy to make a paper cylinder but impossible to make a paper sphere. "What is the general rule here?" I asked [Behzad](https://www.linkedin.com/in/behzadhaghgoo), my high school friend, and he came up with a rather beautiful conjecture; [this](../files/notes/006.pdf) note is a proof for his (generalised) conjecture. There are a few open (at least for me) problems here as well (Cf. [Problems](kooroshsadri.github.io/problems) tab). [Last Update: Apr 2019]
 
-* 
+* 🔒 [This](../files/notes/005.pdf) is a model that proves the poorer one is, the more decent he is as well. (Of course I am kidding!) [Last Update: 2017]
+
+* 🔒 I am interested in the sphere packing problem. In 2017, I published a Persian review [here](http://physics.sharif.edu/~takaneh/wp-content/uploads/2020/03/Takaneh28.pdf). [This](..files/notes/004.pdf) is a neater version. [Last Update: 2017]
