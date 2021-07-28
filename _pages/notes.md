@@ -26,3 +26,9 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 * 🔒 [This](../files/notes/005.pdf) is a model that proves the poorer one is, the more decent he is as well. (Of course I am kidding!) [Last Update: 2017]
 
 * 🔒 I am interested in the sphere packing problem. In 2017, I published a Persian review [here](http://physics.sharif.edu/~takaneh/wp-content/uploads/2020/03/Takaneh28.pdf). [This](..files/notes/004.pdf) is a neater version. [Last Update: 2017]
+
+* 🔒 
+
+* You are given a bunch of noisy data points in the form of many (say 1000) dimensional real vectors. But you know that they all lie on a possibly curved low dimensional (say 7) manifold. How would you estimate the true intrinsic dimension? [This](..files/notes/002.pdf) is one method that I developed in 2017. [Last Update: 2017]
+
+* 🔒
