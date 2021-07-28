@@ -27,8 +27,10 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 
 * 🔒 I am interested in the sphere packing problem. In 2017, I published a Persian review [here](http://physics.sharif.edu/~takaneh/wp-content/uploads/2020/03/Takaneh28.pdf). [This](..files/notes/004.pdf) is a neater version. [Last Update: 2017]
 
-* 🔒 
+* 🔒 As a term paper for the course Quantum Mechanics II, I wrote [this](..files/notes/003.pdf) concerning the Lamb effect. [Last Update: 2017]
 
 * You are given a bunch of noisy data points in the form of many (say 1000) dimensional real vectors. But you know that they all lie on a possibly curved low dimensional (say 7) manifold. How would you estimate the true intrinsic dimension? [This](..files/notes/002.pdf) is one method that I developed in 2017. [Last Update: 2017]
 
-* 🔒
+* 🔒 As a term paper for the Fluid Dynamics course, I wrote [this](..files/notes/001.pdf) concerning Kolmogoroff's 4/5 law.
+
+* 🔒 On the first encounter, I found the numerical method *"wag the tail"* (as explained in Griffiths' Quantum book) interesting and therefore applied it to solve the energy levels of a particle in an infinite triangular well. ([here](..files/notes/000.pdf)) [Last Update: 2015]
