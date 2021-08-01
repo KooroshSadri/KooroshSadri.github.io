@@ -14,5 +14,5 @@ You won't find *those* problems here, instead, some that I find interesting.
 
 <br>
 
-* Topic 1
+* Classical Mechanics
     * [Problem 1](somelink)
