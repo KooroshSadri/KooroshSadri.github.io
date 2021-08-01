@@ -15,4 +15,4 @@ You won't find *those* problems here, instead, some that I find interesting.
 <br>
 
 * Classical Mechanics
-    * [Hanging Spring](kooroshsadri.github.io/problems/cm/001)
+    * [Hanging Spring](/cm/001)
