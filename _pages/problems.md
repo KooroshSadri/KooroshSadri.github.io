@@ -16,8 +16,3 @@ You won't find *those* problems here, instead, some that I find interesting.
 
 * Classical Mechanics
     * [Hanging Spring](kooroshsadri.github.io/problems/cm/001)
-    # * [Problem 2](kooroshsadri.github.io/problems/cm/002)
-    # * [Problem 3](kooroshsadri.github.io/problems/cm/003)
-    # * [Problem 4](kooroshsadri.github.io/problems/cm/004)
-    # * [Problem 5](kooroshsadri.github.io/problems/cm/005)
-    # * [Problem 6](kooroshsadri.github.io/problems/cm/006)
