@@ -16,3 +16,6 @@ You won't find *those* problems here, instead, some that I find interesting.
 
 * Classical Mechanics
     * [Hanging Spring](/problems/cm/001)
+
+* High Dimensional Geometry
+    * [Round Super Polytope](/problems/hdg/001)
