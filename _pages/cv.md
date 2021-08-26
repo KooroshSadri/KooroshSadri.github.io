@@ -98,7 +98,7 @@ Selected Courses
 * Quantum Information and Computation, Year-long PhD course based on the instructor's lecture notes
 * General Relativity, Year-long PhD course covering most of [MTW](https://en.wikipedia.org/wiki/Gravitation_(book))'s text book
 * Cosmology I, Single semester PhD course covering the first 5 chapters of Weinberg's text book
-* Quantum Field Theory I, Single semester PhD course (almost) covering Schroeder & Peskin's text book
+* Quantum Field Theory I, Single semester PhD course (almost) covering the first part of Schroeder & Peskin's text book
 * High Dimensional Probabilistic Analysis, Single semester MS course, covering parts of [this](https://www.math.uci.edu/~rvershyn/papers/HDP-book/) text book
 * Introduction to the Theory of Machine Learning, Single semester MS course based on a myriad of text books and lecture notes
 * Special Topics in Dynamical Systems, Single semester MS course covering [Brin & Stuck](http://inis.jinr.ru/sl/vol2/Mathematics/Diff.Equations/Brin%20M.,%20Stuck%20G.,%20Introduction%20to%20Dynamical%20Systems,%202003.pdf)'s text book
