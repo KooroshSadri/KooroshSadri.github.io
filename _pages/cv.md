@@ -44,10 +44,15 @@ Work Experience
 
 -Academic-
 ------
+* Fall 2021: Teaching Assistant, SUT
+  * Special Relativity
+  * Duties included: Recitation Sessions, HW Grading
+  * Course Instructor: Prof. Vahid Karimipour
+
 * Spring 2019, 20, 21: Teaching Assistant, SUT
   * Game Theory for Engineers (graduate course)
-  * Duties included: Recitation Classes, HW Design and Grading
-  * Supervisor: Prof. Farid Ashtiani
+  * Duties included: Recitation Sessions, HW Design and Grading
+  * Course Instructor: Prof. Farid Ashtiani
 
 * Fall 2019-Present: Paid Research Assistant, SUT
   * Quantum Information Group
@@ -59,8 +64,8 @@ Work Experience
 
 * Spring 2017: Teaching Assistant, SUT
   * Signals and Systems (undergraduate course)
-  * Duties included: Recitation Classes, HW Design and Grading
-  * Supervisor: Prof. Hamid Aghajan
+  * Duties included: Recitation Sessions, HW Design and Grading
+  * Course Instructor: Prof. Hamid Aghajan
 
 * 2015-2018: Part Time Physics Olympiad Teacher
   * In the first couple of years of my undergraduate studies, I was asked to teach physics Olympiad content at several high schools in Tehran. (Cf. Awards and Honors)
