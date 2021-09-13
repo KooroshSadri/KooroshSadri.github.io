@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BS in Physics, Sharif University of Technology, 2021 (GPA: 94%)
-* BS in Electrical Engineering, SUT, 2021 (GPA: 90%)
+* BS in Physics, Sharif University of Technology, 2021 (GPA: 3.70/4.0)
+* BS in Electrical Engineering, SUT, 2021 (GPA: 3.68/4)
 * IPhO Preparation Course, Young Scholars Club, 2016
 * A Level, Helli High School, 2015
 
