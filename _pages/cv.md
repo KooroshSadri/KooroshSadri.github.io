@@ -74,6 +74,9 @@ Work Experience
 -Miscellaneous-
 -----
 
+* Sep 2021 - Present: Financial Math Intern, [Kuknos Company](https://kuknos.ir/)
+  * Kuknos is an Iranian company issuing, marketing and trading both domestic and international cryptocurrencies.
+
 * Jul 2017: Local Guide
   * The 2017 International Olympiad for Informatics (IOI) was held in Tehran, Iran. I served as the local guide for the Belarusian team during the week-long event.
 
