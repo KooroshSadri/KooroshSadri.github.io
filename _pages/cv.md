@@ -91,6 +91,14 @@ Computer Skills
 =====
 I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: COMSOL, LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, Markdown, etc.
 
+Standardized Tests
+==== 
+* TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117 out of 120
+* GRE
+  * General: 170(Q) + 162(V) = 332 out of 340; Analytical Writing: ? / 6.0
+  * Physics: ? / 990
+
+
 Participations
 =====
 * Winter 2021: Visitor, 2<sup>nd</sup> Advanced School on Holography and Quantum Information Topics, [IPM](http://www.ipm.ac.ir/) Institute for Research in Fundamental Sciences, Tehran, Iran
