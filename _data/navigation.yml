@@ -15,5 +15,5 @@ main:
   #- title: "Useful Links"
   #  url: /links/
 
-  #- title: "Solution Manuals"
-  #  url: /solman/
+  - title: "Solution Manuals"
+    url: /solman/
