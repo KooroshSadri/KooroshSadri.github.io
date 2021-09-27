@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BS in Physics, Sharif University of Technology, 2021 (GPA: 94%)
-* BS in Electrical Engineering, SUT, 2021 (GPA: 90%)
+* BS in Physics, Sharif University of Technology, 2021 (GPA: 3.70/4.0)
+* BS in Electrical Engineering, SUT, 2021 (GPA: 3.68/4.0)
 * IPhO Preparation Course, Young Scholars Club, 2016
 * A Level, Helli High School, 2015
 
@@ -74,6 +74,9 @@ Work Experience
 -Miscellaneous-
 -----
 
+* Sep 2021 - Present: Financial Math Intern, [Kuknos Company](https://kuknos.ir/)
+  * Kuknos is an Iranian company issuing, marketing and trading both domestic and international cryptocurrencies.
+
 * Jul 2017: Local Guide
   * The 2017 International Olympiad for Informatics (IOI) was held in Tehran, Iran. I served as the local guide for the Belarusian team during the week-long event.
 
@@ -87,6 +90,14 @@ Languages
 Computer Skills
 =====
 I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: COMSOL, LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, Markdown, etc.
+
+Standardized Tests
+==== 
+* TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117 out of 120
+* GRE
+  * General: 170(Q) + 162(V) = 332 out of 340; Analytical Writing: ? / 6.0
+  * Physics: ? / 990
+
 
 Participations
 =====
