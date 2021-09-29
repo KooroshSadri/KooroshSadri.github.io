@@ -95,7 +95,7 @@ Standardized Tests
 ==== 
 * TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117 out of 120
 * GRE
-  * General: 170(Q) + 162(V) = 332 out of 340; Analytical Writing: ? / 6.0
+  * General: 170(Q) + 162(V) = 332 out of 340; Analytical Writing: 4.0 / 6.0
   * Physics: ? / 990
 
 
