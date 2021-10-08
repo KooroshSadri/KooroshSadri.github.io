@@ -93,10 +93,10 @@ I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia
 
 Standardized Tests
 ==== 
-* TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117 out of 120
+* TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117 / 120
 * GRE
-  * General: 170(Q) + 162(V) = 332 out of 340; Analytical Writing: 4.0 / 6.0
-  * Physics: 990 / 990
+  * General: 170(Q) + 162(V) = 332 (Max = 340); Analytical Writing: 4.0 / 6.0
+  * Physics: 990 (Max = 990)
 
 
 Participations
