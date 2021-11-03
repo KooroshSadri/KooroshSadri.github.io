@@ -31,6 +31,7 @@ Unpublished Work
 
 Awards and Honors
 ======
+* (2021) Ranked 2<sup>ns</sup> in the university students' national Physics Olympiad for the second consecutive year
 * (2021) Ranked 1<sup>st</sup> in the national master studies entrance exam for the second consecutive year 
 * (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
 * (2020) Ranked 1<sup>st</sup> in the national master studies entrance exam
