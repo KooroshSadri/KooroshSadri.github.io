@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Research Statement
+=====
+
+
+
 Education
 ======
 * BS in Physics, Sharif University of Technology, 2021 (GPA: 3.70/4.0)
@@ -24,14 +29,15 @@ and Theoretical*, 115691.R1 (2021), [arXiv](http://arxiv.org/abs/2104.06062)
 
 Unpublished Work
 -----
-* EE BS Thesis: During the 2021 spring semester, I did a research project titled *Phase Transitions in the Community Detection Problem: An Information Theoretic Approach* under [Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en)'s supervision. We hope to publish the results soon.
+
+* EE BS Thesis: During the 2021 spring semester, I did a research project titled *Phase Transitions in the Community Detection Problem: An Information Theoretic Approach* under [Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en)'s supervision.
 * Special Relativity Term-Paper: I did a thorough review of several historical and modern papers on the issue of rigid bodies in relativistic physics. You can find the paper under the [notes](http://kooroshsadri.github.io/notes) tab.
 * Physics BS Project: Under [B. Mashhoon](https://scholar.google.com/citations?user=Yj0-pX4AAAAJ&hl=en)'s supervision, I re-derived and discussed some of the solutions to Einstein's field equations in higher dimensional space-times. You can find a drafty note, reflecting my calculations and results under the [notes](http://kooroshsadri.github.io/notes) tab.
 * Sphere Packing: On the Pi day of 2016, maryna viazovska solved the problem of optimal sphere packing in 8 dimensions, a week later, Henry Cohn *et al.* used a similar method to solve the problem in 24 dimensions. I, being interested in sphere packing, did a thorough review on the state of the art methods and results. The resulting paper was pubvlished (in persian) [here](http://physics.sharif.edu/~takaneh/wp-content/uploads/2020/03/Takaneh28.pdf)
 
 Awards and Honors
 ======
-* (2021) Ranked 2<sup>ns</sup> in the university students' national Physics Olympiad for the second consecutive year
+* (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad for the second consecutive year
 * (2021) Ranked 1<sup>st</sup> in the national master studies entrance exam for the second consecutive year 
 * (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
 * (2020) Ranked 1<sup>st</sup> in the national master studies entrance exam
@@ -46,6 +52,9 @@ Work Experience
 
 -Academic-
 ------
+* Fall 2021 - Present: Physics Olympiad Teacher
+  * Teaching an equivalent of a college course on Oscillations and Waves at Atomic Energy Highschool, Tehran, Iran
+
 * Fall 2021: Teaching Assistant, SUT
   * Special Relativity
   * Duties included: Recitation Sessions, HW Grading
@@ -56,7 +65,7 @@ Work Experience
   * Duties included: Recitation Sessions, HW Design and Grading
   * Course Instructor: Prof. Farid Ashtiani
 
-* Fall 2019-Present: Paid Research Assistant, SUT
+* Fall 2019 - Present: Paid Research Assistant, SUT
   * Quantum Information Group
   * Duties included: The Quasi Inversion Paper, A new project concerning quantum macroscopicity, and several technical talks 
   * Supervisor: Prof. Vahid Karimipour 
@@ -69,7 +78,7 @@ Work Experience
   * Duties included: Recitation Sessions, HW Design and Grading
   * Course Instructor: Prof. Hamid Aghajan
 
-* 2015-2018: Part Time Physics Olympiad Teacher
+* 2015-2018: Physics Olympiad Teacher
   * In the first couple of years of my undergraduate studies, I was asked to teach physics Olympiad content at several high schools in Tehran. (Cf. Awards and Honors)
 
 -Miscellaneous-
