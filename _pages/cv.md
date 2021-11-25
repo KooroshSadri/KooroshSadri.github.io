@@ -53,7 +53,7 @@ Work Experience
 -Academic-
 ------
 * Fall 2021 - Present: Physics Olympiad Teacher
-  * Teaching an equivalent of a college course on Oscillations and Waves at Atomic Energy Highschool, Tehran, Iran
+  * Teaching an equivalent of a college course on oscillations and waves at AEH, Tehran, Iran
 
 * Fall 2021: Teaching Assistant, SUT
   * Special Relativity
