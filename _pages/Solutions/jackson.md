@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Jackson's "Classical Electrodynamics", a Sparse Solution Manual"
+title: "Jackson's Classical Electrodynamics, a Sparse Solution Manual"
 permalink: /solman/jackson/
 author_profile: true
 ---
