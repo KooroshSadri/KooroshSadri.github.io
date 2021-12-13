@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* You can find the solution to many of Jackson's problems [here](http://www-personal.umich.edu/~pran/jackson/); I agree with most (but not all) of them. In any case, I am taking a graduate course that follows Jackson's textbook. I will post my completed homeworks here. The problemsets contain a number of tailored problems as well as those from the book.
+* You can find the solution to many of Jackson's problems [here](http://www-personal.umich.edu/~pran/jackson/); I agree with most (but not all) of them. In any case, I am taking a graduate course that follows Jackson's textbook (3rd Ed.). I will post my completed homeworks here. The problemsets contain a number of tailored problems as well as those from the book.
 
     * [PSet #1](https://kooroshsadri.github.io/files/solman/jackson/S1.pdf): Tailored Problems + 1.17 + 1.18
     * [PSet #2](https://kooroshsadri.github.io/files/solman/jackson/S2.pdf): Tailored Problems + 2.14 + 2.15 + 2.26
