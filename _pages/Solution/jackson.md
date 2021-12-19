@@ -14,3 +14,4 @@ author_profile: true
     * [PSet #3](https://kooroshsadri.github.io/files/solman/jackson/S3.pdf): Tailored Problems + 3.2 + 3.3 + 3.5 + 3.7 + 3.11
     * [PSet #4](https://kooroshsadri.github.io/files/solman/jackson/S4.pdf): Tailored Problems
     * [PSet #5](https://kooroshsadri.github.io/files/solman/jackson/S5.pdf): Tailored Problems + 3.15 + 4.1 + 4.7 + 4.13
+    * [PSet #6](https://kooroshsadri.github.io/files/solman/jackson/S6.pdf): 5.1, 5.17, 5.25, 5.26, 5.29, 5.35
