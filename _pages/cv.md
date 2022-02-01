@@ -23,6 +23,8 @@ Education
 
 Research Experience
 ======
+* KS, F. Shahbeigi, Z. Puchała, K. Życzkowski; "Accessible maps in a group of classical or quantum channels", [arXiv](https://arxiv.org/abs/2201.12524)
+
 * F. Shahbeigi, KS , M. Moradi, K. Zyczkowski, V. Karimipour; "Quasi-inversion of
 quantum and classical channels in finite dimensions", *Journal of Physics A: Mathematical
 and Theoretical*, 115691.R1 (2021), [arXiv](http://arxiv.org/abs/2104.06062)
