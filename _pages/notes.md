@@ -11,7 +11,7 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 
 <br>
 
-* While studying quantum field theory (QFT for short), one faces many *do-it-yourself* calculations. In [this file](../files/notes/011.pdf), I will try to do those calculations as clearly (at least to myself) as possible. [Last Update: Oct 2021]
+* While studying quantum field theory (QFT for short), one faces many *do-it-yourself* calculations. In [this file](../files/notes/011.pdf), I will try to do those calculations as clearly (at least to myself) as possible. [Last Update: Feb 2022]
 
 * 🔒 [This](../files/notes/010.pdf) is the Persian report of my BS thesis (for the electrical engineering course) titled *"Phase Transitions in the Community Detection Problem: An Information Theoretic Approach"*. [Last Update: Jun 2021]
 
