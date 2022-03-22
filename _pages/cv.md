@@ -54,8 +54,14 @@ Work Experience
 
 -Academic-
 ------
-* Fall 2021 - Present: Physics Olympiad Teacher
-  * Teaching an equivalent of a college course on oscillations and waves at AEH, Tehran, Iran
+
+* Spring 2022: Teaching Assistant, SUT
+  * Special Relativity
+  * Duties included: Recitation Sessions
+  * Course Instructor: Prof. Vahid Karimipour
+
+* Fall 2016 - Present: Physics Olympiad Teacher
+  * Teaching Olympiad Content at Several Top-Tier High Schools in Tehran
 
 * Fall 2021: Teaching Assistant, SUT
   * Special Relativity
