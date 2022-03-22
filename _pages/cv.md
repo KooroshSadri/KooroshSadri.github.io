@@ -61,7 +61,7 @@ Work Experience
   * Course Instructor: Prof. Vahid Karimipour
 
 * Fall 2016 - Present: Physics Olympiad Teacher
-  * Teaching Olympiad Content at Several Top-Tier High Schools in Tehran
+  * Teaching Olympiad Content at Several Top-Tier High Schools in Tehran (Cf. Awards and Honors)
 
 * Fall 2021: Teaching Assistant, SUT
   * Special Relativity
@@ -85,9 +85,6 @@ Work Experience
   * Signals and Systems (undergraduate course)
   * Duties included: Recitation Sessions, HW Design and Grading
   * Course Instructor: Prof. Hamid Aghajan
-
-* 2015-2018: Physics Olympiad Teacher
-  * In the first couple of years of my undergraduate studies, I was asked to teach physics Olympiad content at several high schools in Tehran. (Cf. Awards and Honors)
 
 -Miscellaneous-
 -----
