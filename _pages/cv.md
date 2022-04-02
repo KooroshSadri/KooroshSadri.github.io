@@ -89,7 +89,7 @@ Work Experience
 -Miscellaneous-
 -----
 
-* Sep 2021 - Present: Financial Math Intern, [Kuknos Company](https://kuknos.ir/)
+* Sep 2021 - Dec 2021: Financial Math Intern, [Kuknos Company](https://kuknos.ir/)
   * Kuknos is an Iranian company issuing, marketing and trading both domestic and international cryptocurrencies.
 
 * Jul 2017: Local Guide
