@@ -55,17 +55,9 @@ Work Experience
 -Academic-
 ------
 
-* Spring 2022: Teaching Assistant, SUT
+* Fall and Spring 2022: Teaching Assistant, SUT
   * Special Relativity
-  * Duties included: Recitation Sessions
-  * Course Instructor: Prof. Vahid Karimipour
-
-* Fall 2016 - Present: Physics Olympiad Teacher
-  * Teaching Olympiad Content at Several Top-Tier High Schools in Tehran (Cf. Awards and Honors)
-
-* Fall 2021: Teaching Assistant, SUT
-  * Special Relativity
-  * Duties included: Recitation Sessions, HW Grading
+  * Duties included: Recitation Sessions, HW design and grading
   * Course Instructor: Prof. Vahid Karimipour
 
 * Spring 2019, 20, 21: Teaching Assistant, SUT
@@ -73,7 +65,7 @@ Work Experience
   * Duties included: Recitation Sessions, HW Design and Grading
   * Course Instructor: Prof. Farid Ashtiani
 
-* Fall 2019 - Present: Paid Research Assistant, SUT
+* Fall 2019 - Summer 2021: Paid Research Assistant, SUT
   * Quantum Information Group
   * Duties included: The Quasi Inversion Paper, A new project concerning quantum macroscopicity, and several technical talks 
   * Supervisor: Prof. Vahid Karimipour 
@@ -82,18 +74,21 @@ Work Experience
   * During the 1-2 years, I was an active member of a study group focusing on high dimensional statistics. [This](https://teias.institute/statistics-reading-group/) is a webpage that (partially) covers the group's activities.
 
 * Spring 2017: Teaching Assistant, SUT
-  * Signals and Systems (undergraduate course)
+  * Signals and Systems
   * Duties included: Recitation Sessions, HW Design and Grading
   * Course Instructor: Prof. Hamid Aghajan
 
 -Miscellaneous-
 -----
 
+* Fall 2015 - Present: Physics Olympiad Teacher
+  * Teaching Olympiad Content at Several Top-Tier High Schools in Tehran (Cf. Awards and Honors)
+
 * Sep 2021 - Dec 2021: Financial Math Intern, [Kuknos Company](https://kuknos.ir/)
   * Kuknos is an Iranian company issuing, marketing and trading both domestic and international cryptocurrencies.
 
-* Jul 2017: Local Guide
-  * The 2017 International Olympiad for Informatics (IOI) was held in Tehran, Iran. I served as the local guide for the Belarusian team during the week-long event.
+* Jul 2017: Local Guide, Volunteer
+  * The 2017 International Olympiad for Informatics (IOI) was held in Tehran, Iran. I served as a local guide during the week-long event.
 
 Languages
 =====
