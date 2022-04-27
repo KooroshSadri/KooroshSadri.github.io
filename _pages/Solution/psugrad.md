@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Jackson's Classical Electrodynamics, a Sparse Solution Manual"
-permalink: /solman/jackson/
+title: "PSU Graduate Qualifying Exams, Solved!"
+permalink: /solman/psugrad/
 author_profile: true
 ---
 
