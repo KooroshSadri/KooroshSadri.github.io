@@ -13,4 +13,4 @@ author_profile: true
     * [Fall 2005](https://kooroshsadri.github.io/files/solman/psugrad/05F.pdf)
     * [Spring 2006](https://kooroshsadri.github.io/files/solman/psugrad/06S.pdf)
     * [Fall 2006](https://kooroshsadri.github.io/files/solman/psugrad/06F.pdf)
-    * [Spring 2007](https://kooroshsdari.github.io/files/solman/psugrad/07S.pdf)
+    * [Spring 2007](https://kooroshsadri.github.io/files/solman/psugrad/07S.pdf)
