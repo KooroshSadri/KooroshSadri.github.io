@@ -18,7 +18,7 @@ You won't find *those* problems here, instead, some that I find interesting. A q
     * [Hanging Spring](/problems/cm/001)
     * [Cycloids](/problems/cm/002)
     * [The Rigid Sphere and The Ant](/problems/cm/003)
-    <!-- * [Jumping Over an Obstacle](/problems/cm/003) -->
+    * [Anharmonic Oscillator](/problems/cm/004)
 
 <!-- * Special Relativity
     * [Einstein's Elevator](/problems/sr/001) -->
