@@ -20,3 +20,4 @@ author_profile: true
     * [Spring 2009](https://kooroshsadri.github.io/files/solman/psugrad/09S.pdf)
     * [Fall 2009](https://kooroshsadri.github.io/files/solman/psugrad/09F.pdf)
     * [Spring 2010](https://kooroshsadri.github.io/files/solman/psugrad/10S.pdf)
+    * [Fall 2010](https://kooroshsadri.github.io/files/solman/psugrad/10F.pdf)
