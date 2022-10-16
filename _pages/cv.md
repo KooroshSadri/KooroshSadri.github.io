@@ -16,9 +16,9 @@ redirect_from:
 
 Education
 ======
-* **Sharif University of Technology**, BS in Physics, Sharif University of Technology, 2021
-* IPhO Preparation Course, Young Scholars Club, 2016
-* A Level, Helli High School, 2015
+* **Sharif University of Technology**, BS in Physics & Electrical Engineering, 2021
+* **Young Scholars Club**, IPhO Preparation Course, 2016
+* **Helli High School**, 2015
 
 Research Experience
 ======
