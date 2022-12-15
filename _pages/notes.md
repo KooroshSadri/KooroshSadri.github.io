@@ -17,7 +17,7 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 
 * [Here](../files/notes/009.pdf) you can find a term paper that I wrote a while ago on the issue of rigid body motion in relativstic physics. [Last Update: Dec 2020]
 
-* [This](../files/notes/008.pdf) is a drafty version of many of my calculations in the field of general relativity. It contains most of my work for the Physics BS project I did in 2019. [Last Update: Nov 2020]
+* [This](../files/notes/008.pdf) is a drafty version of many of my calculations in the field of general relativity. It contains most of my work for the Physics BS project I did in 2019. [Last Update: Dec 2022]
 
 * 🔒 While working on the Quasi-Inversion project, many little lemmas were proved; [this](../files/notes/007.pdf) is one of them. [Last Update: Feb 2021]
 
