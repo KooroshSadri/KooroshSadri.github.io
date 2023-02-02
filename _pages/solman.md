@@ -12,3 +12,4 @@ On this page, you may find the solution manuals of some of the text books that I
 * [The Yellow Book of CFT](https://kooroshsadri.github.io/files/solman/cft.pdf)
 * [Jackson's Classicla Electrodynamics (Sparse!)](https://kooroshsadri.github.io/solman/jackson)
 * [PSU Graduate Qualifying Exams](https://kooroshsadri.github.io/solman/psugrad)
+* [A Solution Manual to Eric Poisson’s A Relativist’s Toolkit](https://kooroshsadri.github.io/files/solman/tkit.pdf)
