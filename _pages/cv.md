@@ -16,9 +16,8 @@ redirect_from:
 
 Education
 ======
+* **The Pennsylvania State University**, Physics Ph.D. Program, 2022-Present
 * **Sharif University of Technology**, BS in Physics & Electrical Engineering, 2021
-* **Young Scholars Club**, IPhO Preparation Course, 2016
-* **Helli High School**, 2015
 
 Research Experience
 ======
