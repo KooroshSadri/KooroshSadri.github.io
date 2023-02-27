@@ -19,7 +19,7 @@ Education
 * **The Pennsylvania State University**, Physics Ph.D. Program, 2022-Present
 * **Sharif University of Technology**, BS in Physics & Electrical Engineering, 2021
 
-Research Experience
+Research
 ======
 * KS, F. Shahbeigi, Z. Puchała, K. Życzkowski; "Accessible maps in a group of classical or quantum channels", *Open Systems and Information Dynamics*, Vol. 28, No. 4 (2021), 2170001, [arXiv](https://arxiv.org/abs/2201.12524)
 
@@ -53,7 +53,11 @@ Work Experience
 -Academic-
 ------
 
-* Fall and Spring 2022: Teaching Assistant, SUT
+* Fall 2022: Teaching Assistant, PSU
+  * **PHYS 212** General Physics: Electricity and Magnetism
+  * Lab Instructor
+
+* Fall 2021 and Spring 2022: Teaching Assistant, SUT
   * Special Relativity
   * Duties included: Recitation Sessions, HW design and grading
   * Course Instructor: Prof. Vahid Karimipour
