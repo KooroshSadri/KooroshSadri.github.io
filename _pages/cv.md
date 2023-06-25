@@ -17,7 +17,7 @@ redirect_from:
 Education
 ======
 * **The Pennsylvania State University**, Physics Ph.D. Program, 2022-Present
-* **Sharif University of Technology**, BS in Physics & Electrical Engineering, 2021
+* **Sharif University of Technology**, B.S. in Physics & Electrical Engineering, 2021
 
 Research
 ======
@@ -94,12 +94,9 @@ Work Experience
 
 Languages
 =====
-* Persian: Native
-* English: Fluent
-  * TOEFL iBT: 30(R) + 29(L) + 29(S) + 29(W) = 117 out of 120
-* Spanish: Upper Intermediate
+Persian (Native), English, Spanish
 
-Computer Skills
+<!-- Computer Skills
 =====
 I am comfortable with the programing languages Python, C, C++, MATLAB, and Julia. Other notable computer packages/tools that I'm happy with include: COMSOL, LaTeX, PGF/TikZ & TikZ-Feynman, Simulink, Markdown, etc.
 
@@ -119,9 +116,9 @@ Participations
 * Summer 2019: Visitor, Iranian Conference on Quantum Information and Computation, [PSI](psi.ir) Physics Society of Iran, Shahrood, Iran
 * Winter 2019: Funded Visitor, An Advanced School on Ubiquitos Quantum Physics, ICTP, Trieste, Italy
 * 2019: Member/Audience, Weekly held journal clubs on Quantum Information and Computation, SUT, Tehran, Iran
-* Summer 2018: Funded Visitor, Two introductory and advanced courses on dynamical systems and ergodic theory, ICTP, Trieste, Italy
+* Summer 2018: Funded Visitor, Two introductory and advanced courses on dynamical systems and ergodic theory, ICTP, Trieste, Italy -->
 
-Selected Courses
+<!-- Selected Courses
 =====
 
 * Quantum Information and Computation, Year-long PhD course based on the instructor's lecture notes
@@ -131,7 +128,7 @@ Selected Courses
 * High Dimensional Probabilistic Analysis, Single semester MS course, covering parts of [this](https://www.math.uci.edu/~rvershyn/papers/HDP-book/) text book
 * Introduction to the Theory of Machine Learning, Single semester MS course based on a myriad of text books and lecture notes
 * Special Topics in Dynamical Systems, Single semester MS course covering [Brin & Stuck](http://inis.jinr.ru/sl/vol2/Mathematics/Diff.Equations/Brin%20M.,%20Stuck%20G.,%20Introduction%20to%20Dynamical%20Systems,%202003.pdf)'s text book
-* Game Theory, Single semester MS course covering [this](https://books.google.com/books?id=W_kmzQEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0) text book
+* Game Theory, Single semester MS course covering [this](https://books.google.com/books?id=W_kmzQEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0) text book -->
 
 Talks
 ======
