@@ -35,17 +35,11 @@ Unpublished Work
 * Physics BS Project: Under [B. Mashhoon](https://scholar.google.com/citations?user=Yj0-pX4AAAAJ&hl=en)'s supervision, I re-derived and discussed some of the solutions to Einstein's field equations in higher dimensional space-times. You can find a drafty note, reflecting my calculations and results under the [notes](http://kooroshsadri.github.io/notes) tab.
 * Sphere Packing: On the Pi day of 2016, Maryna Viazovska solved the problem of optimal sphere packing in 8 dimensions, a week later, Henry Cohn *et al.* used a similar method to solve the problem in 24 dimensions. I, being interested in sphere packing, did a thorough review on the state of the art methods and results. The resulting paper was published (in persian) [here](http://physics.sharif.edu/~takaneh/wp-content/uploads/2020/03/Takaneh28.pdf)
 
-Awards and Honors
+Presentations
 ======
-* (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad for the second consecutive year
-* (2021) Ranked 1<sup>st</sup> in the national master studies entrance exam for the second consecutive year 
-* (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
-* (2020) Ranked 1<sup>st</sup> in the national master studies entrance exam
-* (2018) Premier sophomore EE student
-* (2017) Premier freshman EE student
-* (2015) Physics national Olympiad Gold medal
-* (2010) Certificate of Attendance, IMC Junior, South Korea
+  * [Here](https://psu.mediaspace.kaltura.com/media/Averaging-Problem/1_1oh61vr6) I discuss an approach to tackle the averaging problem in cosmology.
 
+  * I have given a number of informal technical talks at different communities in SUT. Examples include [the quanta study circle](http://physics.sharif.edu/~ebrahimi_mohammad/Study%20Circle%20Fall19.html), [Dr. Karimipour's research group](http://physics.sharif.edu/~vahid/mystudents.html), etc.
 
 Work Experience
 ======
@@ -92,6 +86,17 @@ Work Experience
 * Jul 2017: Local Guide, Volunteer
   * The 2017 International Olympiad for Informatics (IOI) was held in Tehran, Iran. I served as a local guide during the week-long event.
 
+Awards and Honors
+======
+* (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad for the second consecutive year
+* (2021) Ranked 1<sup>st</sup> in the national master studies entrance exam for the second consecutive year 
+* (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
+* (2020) Ranked 1<sup>st</sup> in the national master studies entrance exam
+* (2018) Premier sophomore EE student
+* (2017) Premier freshman EE student
+* (2015) Physics national Olympiad Gold medal
+* (2010) Certificate of Attendance, IMC Junior, South Korea
+
 Languages
 =====
 Persian (Native), English, Spanish
@@ -129,8 +134,3 @@ Participations
 * Introduction to the Theory of Machine Learning, Single semester MS course based on a myriad of text books and lecture notes
 * Special Topics in Dynamical Systems, Single semester MS course covering [Brin & Stuck](http://inis.jinr.ru/sl/vol2/Mathematics/Diff.Equations/Brin%20M.,%20Stuck%20G.,%20Introduction%20to%20Dynamical%20Systems,%202003.pdf)'s text book
 * Game Theory, Single semester MS course covering [this](https://books.google.com/books?id=W_kmzQEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0) text book -->
-
-Talks
-======
-  * I have given a number of informal technical talks at different communities in SUT. Examples include [the quanta study circle](http://physics.sharif.edu/~ebrahimi_mohammad/Study%20Circle%20Fall19.html), [Dr. Karimipour's research group](http://physics.sharif.edu/~vahid/mystudents.html), etc.
-
