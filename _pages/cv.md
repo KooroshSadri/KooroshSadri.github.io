@@ -83,7 +83,7 @@ Work Experience
 -Miscellaneous-
 -----
 
-* Fall 2015 - Present: Physics Olympiad Teacher
+* Fall 2015 - Summer 2022: Physics Olympiad Teacher
   * Teaching Olympiad Content at Several Top-Tier High Schools in Tehran (Cf. Awards and Honors)
 
 * Sep 2021 - Dec 2021: Financial Math Intern, [Kuknos Company](https://kuknos.ir/)
