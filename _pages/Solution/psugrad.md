@@ -24,4 +24,5 @@ author_profile: true
     * [Spring 2011](https://kooroshsadri.github.io/files/solman/psugrad/11S.pdf)
     * [Fall 2011](https://kooroshsadri.github.io/files/solman/psugrad/11F.pdf)
     * [Spring 2012](https://kooroshsadri.github.io/files/solman/psugrad/12S.pdf)
+    * [Fall 2012](https://kooroshsadri.github.io/files/solman/psugrad/12F.pdf)
     * [Spring 2021](https://kooroshsadri.github.io/files/solman/psugrad/21S.pdf)
