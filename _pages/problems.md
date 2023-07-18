@@ -19,6 +19,7 @@ You won't find *those* problems here, instead, some that I find interesting. A q
     * [Cycloids](/problems/cm/002)
     * [The Rigid Sphere and The Ant](/problems/cm/003)
     * [Anharmonic Oscillator](/problems/cm/004)
+    * [How to Throw a Labrys (On Paper)](/problems/cm/005)
 
 <!-- * Special Relativity
     * [Einstein's Elevator](/problems/sr/001) -->
