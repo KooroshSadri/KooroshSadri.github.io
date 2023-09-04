@@ -31,8 +31,7 @@ author_profile: true
     * [Fall 2014](https://kooroshsadri.github.io/files/solman/psugrad/14F.pdf)
     * [Spring 2015](https://kooroshsadri.github.io/files/solman/psugrad/15S.pdf)
     * [Fall 2015](https://kooroshsadri.github.io/files/solman/psugrad/15F.pdf)
-    <!--
-    * [Spring 2016](https://kooroshsadri.github.io/files/solman/psugrad/16S.pdf)
+    <!-- * [Spring 2016](https://kooroshsadri.github.io/files/solman/psugrad/16S.pdf)
     * [Fall 2016](https://kooroshsadri.github.io/files/solman/psugrad/16F.pdf)
     * [Spring 2017](https://kooroshsadri.github.io/files/solman/psugrad/17S.pdf)
     * [Fall 2017](https://kooroshsadri.github.io/files/solman/psugrad/17F.pdf)
@@ -41,6 +40,5 @@ author_profile: true
     * [Spring 2019](https://kooroshsadri.github.io/files/solman/psugrad/19S.pdf)
     * [Fall 2019](https://kooroshsadri.github.io/files/solman/psugrad/19F.pdf)
     * [Spring 2020](https://kooroshsadri.github.io/files/solman/psugrad/20S.pdf)
-    * [Fall 2020](https://kooroshsadri.github.io/files/solman/psugrad/20F.pdf)
-    -->
+    * [Fall 2020](https://kooroshsadri.github.io/files/solman/psugrad/20F.pdf) -->
     * [Spring 2021](https://kooroshsadri.github.io/files/solman/psugrad/21S.pdf)
