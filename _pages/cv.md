@@ -88,6 +88,7 @@ Work Experience
 
 Awards and Honors
 ======
+* (2023) The David H. Rank Memorial Physics Award
 * (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad for the second consecutive year
 * (2021) Ranked 1<sup>st</sup> in the national master studies entrance exam for the second consecutive year 
 * (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad
