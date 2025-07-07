@@ -33,4 +33,4 @@ A fun, nerdy way to spend time is to wrestle with an interesting mathematical pr
 
 * 🔒 As a term paper for the Fluid Dynamics course, I wrote [this](../files/notes/001.pdf) concerning Kolmogoroff's 4/5 law.
 
-* 🔒 On the first encounter, I found the numerical method *"wag the tail"* (as explained in Griffiths' Quantum book) interesting and therefore applied it to solve the energy levels of a particle in an infinite triangular well. ([here](..files/notes/000.pdf)) [Last Update: 2015]
+* 🔒 On the first encounter, I found the numerical method *"wag the tail"* (as explained in Griffiths' Quantum book) interesting and therefore applied it to solve the energy levels of a particle in an infinite triangular well. ([here](../files/notes/000.pdf)) [Last Update: 2015]
