@@ -21,6 +21,10 @@ Education
 
 Research
 ======
+* Maria Barsukova, Zeyu Zhang, Brian Gould, KS, Christian Rosiek, Søren Stobbe, Jonas Karcher, Mikael C Rechtsman; "Stealthy-Hyperuniform Wave Dynamics in Two-Dimensional Photonic Crystals", *arXiv preprint arXiv:2507.05253*, (2025), [arXiv](https://arxiv.org/abs/2507.05253v1)
+
+* KS, J Karcher, M Barsukova, Z Zhang, MC Rechtsman; "Optimal Photonic Crystal Laser Designs via Superpotentials", *Conference on Lasers and Electro-Optics (CLEO): Fundamental Science, FF1J. 7*, (2024), [CLEO](https://opg.optica.org/abstract.cfm?uri=cleo_fs-2024-FF1J.7)
+
 * KS, F. Shahbeigi, Z. Puchała, K. Życzkowski; "Accessible maps in a group of classical or quantum channels", *Open Systems and Information Dynamics*, Vol. 28, No. 4 (2021), 2170001, [arXiv](https://arxiv.org/abs/2201.12524)
 
 * F. Shahbeigi, KS , M. Moradi, K. Życzkowski, V. Karimipour; "Quasi-inversion of
