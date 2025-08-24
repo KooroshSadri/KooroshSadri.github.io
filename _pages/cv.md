@@ -97,6 +97,8 @@ Work Experience
 
 Awards and Honors
 ======
+* (2025) Sigma - Xi Society Membership
+* (2025) The David. C. Duncan, Downsbrough, Troxell, and W. Donald Miller (DDTM) Graduate Fellowship
 * (2023) The David H. Rank Memorial Physics Award
 * (2021) Ranked 2<sup>nd</sup> in the university students' national Physics Olympiad for the second consecutive year
 * (2021) Ranked 1<sup>st</sup> in the national master studies entrance exam for the second consecutive year 
