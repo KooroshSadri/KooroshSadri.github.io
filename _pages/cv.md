@@ -41,7 +41,12 @@ Unpublished Work
 
 Presentations
 ======
-  * [Here](https://psu.mediaspace.kaltura.com/media/Averaging-Problem/1_1oh61vr6) I discuss an approach to tackle the averaging problem in cosmology.
+  * Invited presentation of my ”Quasi-Inversion” Paper as part of the Quanta series, at the department of Physics of Sharif
+University of Technology, [August, 2025](https://t.me/anjoman_elmi_phys_sut/3111)
+
+  * [Conference of Lasers and Electro-Optics (CLEO)](https://opg.optica.org/abstract.cfm?uri=cleo_fs-2024-FF1J.7), 2024 Optimal Photonic Crystal Laser Designs via Superpotentials
+
+  * [Here](https://psu.mediaspace.kaltura.com/media/Averaging-Problem/1_1oh61vr6) I discuss an approach to tackle the averaging problem in cosmology. (April 2023)
 
   * I have given a number of informal technical talks at different communities in SUT. Examples include [the quanta study circle](http://physics.sharif.edu/~ebrahimi_mohammad/Study%20Circle%20Fall19.html), [Dr. Karimipour's research group](http://physics.sharif.edu/~vahid/mystudents.html), etc.
 
