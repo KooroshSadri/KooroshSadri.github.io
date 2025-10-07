@@ -97,6 +97,8 @@ Work Experience
 
 Awards and Honors
 ======
+* (2025) IoP Professional Membership
+* (2025) IEEE Professional Membership
 * (2025) Sigma - Xi Society Membership
 * (2025) The David. C. Duncan, Downsbrough, Troxell, and W. Donald Miller (DDTM) Graduate Fellowship
 * (2023) The David H. Rank Memorial Physics Award
