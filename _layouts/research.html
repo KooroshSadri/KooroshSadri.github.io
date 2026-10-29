@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page research-detail">
+    <div class="page__inner-wrap">
+      <header>
+        <p class="research-back"><a href="{{ '/research/' | relative_url }}">&larr; All research</a></p>
+        <p class="research-meta">{{ page.year }} · {{ page.status | escape }}</p>
+        <h1 class="page__title">{{ page.title | escape }}</h1>
+        <div class="research-authors">{{ page.authors | markdownify }}</div>
+        <p class="research-venue">{{ page.publication | escape }}</p>
+        <p class="research-links">{% for link in page.paper_links %}{% unless forloop.first %} <span aria-hidden="true">·</span> {% endunless %}<a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% endfor %}</p>
+      </header>
+      <section class="page__content">
+        {{ content }}
+      </section>
+    </div>
+  </article>
+</div>

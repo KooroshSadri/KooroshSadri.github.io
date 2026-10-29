@@ -1,16 +1,26 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+excerpt: "Research in photonics and quantum information, with paper links and short explanations."
+permalink: /research/
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
 
-{% include base_path %}
+Research projects and papers, with a short explanation of the questions and results.
 
-This is a list of my peer-reviewed publications along with the corresponding abstracts, and other relevant links.
-
-* KS, F. Shahbeigi, Z. Puchała, K. Życzkowski; "Accessible maps in a group of classical or quantum channels", *Open Systems and Information Dynamics*, Vol. 28, No. 4 (2021), 2170001
-  * [Abstract](https://arxiv.org/abs/2201.12524): We study the problem of accessibility in a set of classical and quantum channels admitting a group structure. Group properties of the set of channels, and the structure of the closure of the analyzed group $G$ plays a pivotal role in this regard. The set of all convex combinations of the group elements contains a subset of channels that are accessible by a dynamical semigroup. We demonstrate that accessible channels are determined by probability vectors of weights of a convex combination of the group elements, which depend neither on the dimension of the space on which the channels act, nor on the specific representation of the group. Investigating geometric properties of the set $\mathcal{A}$ of accessible maps we show that this set is non-convex, but it enjoys the star-shape property with respect to the uniform mixture of all elements of the group. We demonstrate that the set $\mathcal{A}$ covers a positive volume in the polytope of all convex combinations of the elements of the group.
-
-* F. Shahbeigi, KS , M. Moradi, K. Życzkowski, V. Karimipour; “Quasi-inversion of quantum and classical channels in finite dimensions”, *Journal of Physics A: Mathematical and Theoretical*, 115691.R1 (2021)
-  * [Abstract](https://arxiv.org/abs/2104.06062): We introduce the concept of quasi-inverse of quantum and classical channels, prove general properties of these inverses and determine them for a large class of channels acting in an arbitrary Finite dimension. Therefore we extend the previous results of [[1](https://arxiv.org/abs/1909.06118)] to arbitrary dimensional channels and to the classical domain. We demonstrate how application of the proposed scheme can increase on the average the Fidelity between a given random pure state and its image transformed by the quantum channel followed by its quasi-inversion. ([PDF](https://arxiv.org/pdf/2104.06062.pdf))
+{% assign research_items = site.research | sort: 'year' | reverse %}
+<div class="research-list">
+{% for item in research_items %}
+  <article class="research-item">
+    <p class="research-meta">{{ item.year }} · {{ item.status | escape }}</p>
+    <h2 class="archive__item-title"><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h2>
+    <div class="research-authors">{{ item.authors | markdownify }}</div>
+    <p class="research-venue">{{ item.publication | escape }}</p>
+    <p>{{ item.summary | escape }}</p>
+    <p class="research-links"><a href="{{ item.url | relative_url }}">Read more<span class="sr-only"> about {{ item.title | escape }}</span></a>{% for link in item.paper_links %} <span aria-hidden="true">·</span> <a href="{{ link.url | escape }}">{{ link.label | escape }}<span class="sr-only">: {{ item.title | escape }}</span></a>{% endfor %}</p>
+  </article>
+{% endfor %}
+</div>

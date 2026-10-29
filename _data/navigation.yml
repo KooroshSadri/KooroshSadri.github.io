@@ -1,19 +1,11 @@
-# main links links
 main:
+  - title: "Research"
+    url: /research/
   - title: "CV"
     url: /cv/
-    
-  - title: "Publications"
-    url: /publications/ 
-    
   - title: "Notes"
     url: /notes/
-    
   - title: "Problems"
     url: /problems/
-
-  #- title: "Useful Links"
-  #  url: /links/
-
   - title: "Solution Manuals"
     url: /solman/

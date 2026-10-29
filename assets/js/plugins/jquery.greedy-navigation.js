@@ -14,6 +14,11 @@ var breaks = [];
 
 function updateNav() {
 
+  // The current header does not use the legacy greedy navigation markup.
+  if (!$nav.length || !$btn.length || !$vlinks.length || !$hlinks.length) {
+    return;
+  }
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav

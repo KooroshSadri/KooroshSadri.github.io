@@ -5,13 +5,21 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js" data-theme="dark">
   <head>
+    <script>
+      (function () {
+        var theme = 'dark';
+        try { var saved = localStorage.getItem('ks-theme'); if (saved === 'light' || saved === 'dark') theme = saved; } catch (e) {}
+        document.documentElement.setAttribute('data-theme', theme);
+      }());
+    </script>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
+    <a class="skip-link" href="#main">Skip to content</a>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
