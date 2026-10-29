@@ -1,0 +1,8 @@
+{% assign research_authors = '' | split: '' %}
+{% for publication in include.item.publications %}
+  {% assign research_authors = research_authors | concat: publication.authors %}
+{% endfor %}
+{% assign research_authors = research_authors | uniq %}
+{% if research_authors.size > 0 %}
+<div class="research-authors">{% for author in research_authors %}{% unless forloop.first %}, {% endunless %}{% if author == 'Koorosh Sadri' %}<strong>KS</strong>{% else %}{{ author | escape }}{% endif %}{% endfor %}</div>
+{% endif %}

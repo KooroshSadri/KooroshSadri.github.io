@@ -64,6 +64,10 @@ html[data-theme="dark"] .highlight .nf, html[data-theme="dark"] .highlight .na {
 .research-item h2 a, .research-item h3 a, .blog-post h2 a { text-decoration: none; }
 .research-item h2 a:hover, .research-item h3 a:hover, .blog-post h2 a:hover { text-decoration: underline; }
 .research-meta, .research-authors, .research-venue { font-size: .85em; margin: .35em 0; }
+.research-authors p { margin: 0; }
+.research-publications { margin: .8rem 0 1rem; padding-left: 1.2em; font-size: .9em; }
+.research-publications li { margin: .5em 0; padding-left: .15em; }
+.research-citation { display: block; margin-top: .1em; font-size: .9em; color: var(--site-muted); }
 .research-links { display: flex; flex-wrap: wrap; gap: .4rem 1rem; font-size: .9em; margin: .8em 0; }
 .research-back { margin-top: 2rem; font-size: .9em; }
 details { margin: 1rem 0; }

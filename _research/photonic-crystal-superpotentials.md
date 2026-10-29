@@ -1,18 +1,20 @@
 ---
-layout: research
+layout: "research"
 title: "Optimal Photonic Crystal Laser Designs via Superpotentials"
 excerpt: "A theoretical approach to balancing output power with spatial and spectral purity in photonic crystal lasers."
 year: 2024
-status: "Conference contribution"
-publication: "CLEO: Fundamental Science, paper FF1J.7 (2024)"
-authors: "**Koorosh Sadri**, Jonas Karcher, Maria Barsukova, Zeyu Zhang, and Mikael C. Rechtsman"
 summary: "A theoretical approach to balancing output power with spatial and spectral purity in photonic crystal lasers."
 author_profile: true
-paper_links:
-  - label: "Paper / DOI"
-    url: "https://doi.org/10.1364/CLEO_FS.2024.FF1J.7"
-  - label: "Publication record"
-    url: "https://pure.psu.edu/en/publications/optimal-photonic-crystal-laser-designs-via-superpotentials-3"
+publications:
+  - title: "Optimal Photonic Crystal Laser Designs via Superpotentials"
+    citation: "CLEO: Fundamental Science, FF1J.7 (2024)"
+    scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Is8kwKwAAAAJ&sortby=pubdate&citation_for_view=Is8kwKwAAAAJ:d1gkVwhDpl0C"
+    authors:
+      - "Koorosh Sadri"
+      - "Jonas Karcher"
+      - "Maria Barsukova"
+      - "Zeyu Zhang"
+      - "Mikael C. Rechtsman"
 ---
 
 ## The question

@@ -8,11 +8,10 @@ layout: default
     <div class="page__inner-wrap">
       <header>
         <p class="research-back"><a href="{{ '/research/' | relative_url }}">&larr; All research</a></p>
-        <p class="research-meta">{{ page.year }} · {{ page.status | escape }}</p>
+        <p class="research-meta">{% if page.start_year and page.start_year != page.year %}{{ page.start_year }} &ndash; {% endif %}{{ page.year }}</p>
         <h1 class="page__title">{{ page.title | escape }}</h1>
-        <div class="research-authors">{{ page.authors | markdownify }}</div>
-        <p class="research-venue">{{ page.publication | escape }}</p>
-        <p class="research-links">{% for link in page.paper_links %}{% unless forloop.first %} <span aria-hidden="true">·</span> {% endunless %}<a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% endfor %}</p>
+        {% include research-authors.html item=page %}
+        {% include research-publications.html item=page %}
       </header>
       <section class="page__content">
         {{ content }}

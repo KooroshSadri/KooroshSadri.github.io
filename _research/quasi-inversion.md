@@ -1,20 +1,20 @@
 ---
-layout: research
+layout: "research"
 title: "Quasi-inversion of Quantum and Classical Channels in Finite Dimensions"
 excerpt: "Recovering information as well as possible when a noisy channel has no physical inverse."
 year: 2021
-status: "Journal article"
-publication: "Journal of Physics A: Mathematical and Theoretical 54, 345301 (2021)"
-authors: "Fereshte Shahbeigi, **Koorosh Sadri**, Morteza Moradi, Karol Życzkowski, and Vahid Karimipour"
 summary: "Recovering information as well as possible when a noisy channel has no physical inverse."
 author_profile: true
-paper_links:
-  - label: "Journal / DOI"
-    url: "https://doi.org/10.1088/1751-8121/ac13db"
-  - label: "arXiv"
-    url: "https://arxiv.org/abs/2104.06062"
-  - label: "PDF"
-    url: "https://arxiv.org/pdf/2104.06062"
+publications:
+  - title: "Quasi-inversion of Quantum and Classical Channels in Finite Dimensions"
+    citation: "Journal of Physics A: Mathematical and Theoretical 54, 345301 (2021)"
+    scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Is8kwKwAAAAJ&sortby=pubdate&citation_for_view=Is8kwKwAAAAJ:u5HHmVD_uO8C"
+    authors:
+      - "Fereshte Shahbeigi"
+      - "Koorosh Sadri"
+      - "Morteza Moradi"
+      - "Karol Życzkowski"
+      - "Vahid Karimipour"
 ---
 
 ## The question

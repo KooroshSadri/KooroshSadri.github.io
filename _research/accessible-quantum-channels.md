@@ -1,20 +1,19 @@
 ---
-layout: research
+layout: "research"
 title: "Accessible Maps in a Group of Classical or Quantum Channels"
 excerpt: "Which mixtures of channels can arise from continuous-time semigroup dynamics?"
 year: 2022
-status: "Journal article"
-publication: "Open Systems & Information Dynamics 29, 2250002 (2022)"
-authors: "**Koorosh Sadri**, Fereshte Shahbeigi, Zbigniew Puchała, and Karol Życzkowski"
 summary: "Which mixtures of channels can arise from continuous-time semigroup dynamics?"
 author_profile: true
-paper_links:
-  - label: "Journal / DOI"
-    url: "https://doi.org/10.1142/S1230161222500020"
-  - label: "arXiv"
-    url: "https://arxiv.org/abs/2201.12524"
-  - label: "PDF"
-    url: "https://arxiv.org/pdf/2201.12524"
+publications:
+  - title: "Accessible Maps in a Group of Classical or Quantum Channels"
+    citation: "Open Systems & Information Dynamics 29, 2250002 (2022)"
+    scholar_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Is8kwKwAAAAJ&sortby=pubdate&citation_for_view=Is8kwKwAAAAJ:u-x6o8ySG0sC"
+    authors:
+      - "Koorosh Sadri"
+      - "Fereshte Shahbeigi"
+      - "Zbigniew Puchała"
+      - "Karol Życzkowski"
 ---
 
 ## The question

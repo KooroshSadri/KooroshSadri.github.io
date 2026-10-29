@@ -1,0 +1,10 @@
+{% if include.item.publications.size > 0 %}
+<ul class="research-publications">
+  {% for publication in include.item.publications %}
+  <li>
+    <a href="{{ publication.scholar_url | escape }}">{{ publication.title | escape }}</a>
+    {% if publication.citation %}<span class="research-citation">{{ publication.citation | escape }}</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

@@ -9,18 +9,16 @@ redirect_from:
   - /publications.html
 ---
 
-Research projects and papers, with a short explanation of the questions and results.
-
 {% assign research_items = site.research | sort: 'year' | reverse %}
 <div class="research-list">
 {% for item in research_items %}
   <article class="research-item">
-    <p class="research-meta">{{ item.year }} · {{ item.status | escape }}</p>
+    <p class="research-meta">{% if item.start_year and item.start_year != item.year %}{{ item.start_year }} &ndash; {% endif %}{{ item.year }}</p>
     <h2 class="archive__item-title"><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></h2>
-    <div class="research-authors">{{ item.authors | markdownify }}</div>
-    <p class="research-venue">{{ item.publication | escape }}</p>
+    {% include research-authors.html item=item %}
+    {% include research-publications.html item=item %}
     <p>{{ item.summary | escape }}</p>
-    <p class="research-links"><a href="{{ item.url | relative_url }}">Read more<span class="sr-only"> about {{ item.title | escape }}</span></a>{% for link in item.paper_links %} <span aria-hidden="true">·</span> <a href="{{ link.url | escape }}">{{ link.label | escape }}<span class="sr-only">: {{ item.title | escape }}</span></a>{% endfor %}</p>
+    <p class="research-links"><a href="{{ item.url | relative_url }}">Read more<span class="sr-only"> about {{ item.title | escape }}</span></a></p>
   </article>
 {% endfor %}
 </div>

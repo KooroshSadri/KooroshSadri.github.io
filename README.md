@@ -23,7 +23,9 @@ Markdown, mathematical notation, and YouTube iframe embeds are supported. The ex
 
 ## Add a research item
 
-Copy an existing file in `_research/` to a new filename. Update its title, year, publication status, authors, summary, links, and explanatory text. Items are listed by year, newest first, and each has its own detailed page. Remove any unused links instead of leaving empty URLs.
+Copy an existing file in `_research/` to a new filename. Update its title, summary, explanatory text, and `publications` list. Each publication has a `title`, `citation`, `scholar_url`, and an `authors` list of full names. The project automatically combines those author lists without duplicates and displays Koorosh Sadri as bold **KS**.
+
+Use a numeric `year` for the project's final year and an optional `start_year` for a range: `start_year: 2023` with `year: 2025` displays **2023–2025**. Projects are sorted by their final year, newest first. Publication dates in the citations can differ from the project dates. Each publication title links to its Google Scholar record; “Read more” opens the project's detailed page.
 
 ## Replace the CV and résumé
 
