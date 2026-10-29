@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-On this page, you may find the solution manuals of some of the text books that I have read! The solutions are not reviewed by anyone; use them at your own risk!
+These are my worked solutions to selected textbook and qualifying-exam problems. Some sets are incomplete, and they haven't been independently checked. Please let me know if you spot a mistake!
 
-* [The Yellow Book of CFT](/files/solman/cft.pdf)
-* [Jackson's Classical Electrodynamics (Sparse!)](/solman/jackson)
+* [The Yellow Book of CFT (selected problems)](/files/solman/cft.pdf)
+* [Jackson's Classical Electrodynamics (selected problems)](/solman/jackson)
 * [PSU Graduate Qualifying Exams](/solman/psugrad)
-* [A Solution Manual to Eric Poisson’s A Relativist’s Toolkit](/files/solman/tkit.pdf)
-* [A Sparse Solution Manual to Solan-Maschler-Zamir's *Game Theory* title](/files/solman/game.pdf)
+* [Eric Poisson's *A Relativist's Toolkit* (selected problems)](/files/solman/tkit.pdf)
+* [Solan–Maschler–Zamir's *Game Theory* (selected problems)](/files/solman/game.pdf)

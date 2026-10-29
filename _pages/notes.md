@@ -7,30 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-A fun, nerdy way to spend time is to wrestle with an interesting mathematical problem. Sometimes, after the dust is settled, I find the outcome to be worthy of remembering (by no means, I am assuming that others should feel the same way); and therefore convert the drafty scribbles to a hopefully more readable digital file. On this page, you can find a list containing some of those files; it also includes some of my term papers/reports. (A 🔒 symbol indicates that the note will not be updated anymore.)
+One of my favourite ways to spend time is to wrestle with an interesting mathematical problem. When the dust settles, I sometimes turn the scribbles into a more readable note. Here are some of those notes, along with a few term papers and reports. A 🔒 marks a note I no longer update.
 
 <br>
 
-* While studying quantum field theory (QFT for short), one faces many *do-it-yourself* calculations. In [this file](../files/notes/011.pdf), I will try to do those calculations as clearly (at least to myself) as possible. [Last Update: Oct 2024]
+* Studying quantum field theory involves plenty of *do-it-yourself* calculations. In my [QFT notes](../files/notes/011.pdf), I work through some of them in detail. This is a working draft, with some unfinished sections. [Last Update: Oct 2024]
 
-* 🔒 [This](../files/notes/010.pdf) is the Persian report of my BS thesis (for the electrical engineering course) titled *"Phase Transitions in the Community Detection Problem: An Information Theoretic Approach"*. [Last Update: Jun 2021]
+* 🔒 My [electrical engineering bachelor's thesis](../files/notes/010.pdf), written in Persian, is titled *"Phase Transitions in the Community Detection Problem: An Information Theoretic Approach"*. [2021]
 
-* [Here](../files/notes/009.pdf) you can find a term paper that I wrote a while ago on the issue of rigid body motion in relativstic physics. [Last Update: Dec 2020]
+* A term paper I wrote on [rigid-body motion in relativistic physics](../files/notes/009.pdf). [Last Update: Jul 2021]
 
-* [This](../files/notes/008.pdf) is a drafty version of many of my calculations in the field of general relativity. It contains most of my work for the Physics BS project I did in 2019. [Last Update: Dec 2022]
+* My [general relativity calculation notes](../files/notes/008.pdf), still a working draft, include most of the work from my 2019 physics bachelor's project. [Last Update: Dec 2022]
 
-* 🔒 While working on the Quasi-Inversion project, many little lemmas were proved; [this](../files/notes/007.pdf) is one of them. [Last Update: Feb 2021]
+* 🔒 The Quasi-Inversion project led to several little lemmas; [this note](../files/notes/007.pdf) contains one of them. [Last Update: Feb 2021]
 
-* It is easy to make a paper cylinder but impossible to make a paper sphere. "What is the general rule here?" I asked [Behzad](https://www.linkedin.com/in/behzadhaghgoo), my high school friend, and he came up with a rather beautiful conjecture; [this](../files/notes/006.pdf) note is a proof for his (generalised) conjecture. There are a few open (at least for me) problems here as well (Cf. [Problems](/problems/) tab). [Last Update: Apr 2019]
+* It is easy to make a paper cylinder but impossible to make a paper sphere. "What is the general rule here?" I asked [Behzad](https://www.linkedin.com/in/behzadhaghgoo), my high school friend, and he came up with a rather beautiful conjecture. [This note](../files/notes/006.pdf) proves a generalised version of it. It also raises a few questions I haven't settled; see the [Problems](/problems/) page. [Last Update: Apr 2019]
 
-* 🔒 [This](../files/notes/005.pdf) is a model that proves the poorer one is, the more decent he is as well. (Of course I am kidding!) [Last Update: 2017]
+* 🔒 A [playful toy model of wealth and generosity](../files/notes/005.pdf). It began as a joke and remains an unfinished modelling exercise. [Last Update: 2017]
 
-* 🔒 I am interested in the sphere packing problem. In 2017, I published a Persian review. [This](../files/notes/004.pdf) is a neater version. [Last Update: 2017]
+* 🔒 I've long been interested in sphere packing. This is a [revised version of a Persian review](../files/notes/004.pdf) I published in 2017. [Last Update: 2017]
 
-* 🔒 As a term paper for the course Quantum Mechanics II, I wrote [this](../files/notes/003.pdf) concerning the Lamb effect. [Last Update: 2017]
+* 🔒 My Quantum Mechanics II [term paper on the Lamb shift](../files/notes/003.pdf). [Last Update: 2017]
 
-* You are given a bunch of noisy data points in the form of many (say 1000) dimensional real vectors. But you know that they all lie on a possibly curved low dimensional (say 7) manifold. How would you estimate the true intrinsic dimension? [This](../files/notes/002.pdf) is one method that I developed in 2017. [Last Update: 2017]
+* Suppose you have noisy data in 1,000 dimensions, but the underlying points lie on a curved manifold of much lower dimension—say seven. How would you estimate that intrinsic dimension? [This working draft](../files/notes/002.pdf) explores a method I developed in 2017. [Last Update: 2017]
 
-* 🔒 As a term paper for the Fluid Dynamics course, I wrote [this](../files/notes/001.pdf) concerning Kolmogoroff's 4/5 law.
+* 🔒 My Fluid Dynamics [term paper on Kolmogorov's 4/5 law](../files/notes/001.pdf).
 
-* 🔒 On the first encounter, I found the numerical method *"wag the tail"* (as explained in Griffiths' Quantum book) interesting and therefore applied it to solve the energy levels of a particle in an infinite triangular well. ([here](../files/notes/000.pdf)) [Last Update: 2015]
+* 🔒 The *"wag the tail"* numerical method in Griffiths' quantum mechanics textbook caught my attention, so I used it to [calculate the energy levels of a particle in an infinite triangular well](../files/notes/000.pdf). [Last Update: 2015]

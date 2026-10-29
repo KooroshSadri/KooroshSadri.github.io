@@ -8,8 +8,6 @@ document_viewer: true
 ---
 
 <section class="documents" data-document-viewer aria-label="CV and résumé documents">
-  <p class="documents__notice">These are placeholder documents. Updated versions will be added here.</p>
-
   <fieldset class="document-switch" hidden>
     <legend class="documents__sr-only">Choose a document</legend>
     <label class="document-switch__option">
