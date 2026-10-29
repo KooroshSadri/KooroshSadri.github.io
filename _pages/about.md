@@ -9,8 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-intro" markdown="1">
-I’m Koorosh Sadri, a physics Ph.D. student at Pennsylvania State University. I work in theoretical physics, with interests in photonics, nonlinear dynamics, nonlinear photonics, and quantum information. I’m also interested in gravity. Broadly, I’m drawn to finding clear mathematical descriptions of physical phenomena.
+<div class = "home-intro" markdown = "1">
+I’m Koorosh Sadri, a physics Ph.D. student at Pennsylvania State University. I work in theoretical physics, with interests in photonics, nonlinear dynamics, nonlinear photonics, and quantum information as well as classical gravitational physics. Broadly speaking, I’m drawn to finding clear mathematical descriptions of physical phenomena.
 </div>
 
 {% assign blog_posts = site.posts | sort: 'date' | reverse %}
